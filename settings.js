@@ -17,12 +17,12 @@ Creator : @darkmakerofc , @mr-nima-x
 
 module.exports = {
   OWNER_NUMBER: "94778764083",
-  SUDO_NUMBERS : "94766969406,94778764083",
+  SUDO_NUMBERS : "94760149326,94778764083",
   OWNER_NAME: "『 ᴍʀ ᴍɪʜɪʀᴜᴋ ᴅɪʟꜱʜᴀɴ 』",
   BOT_NAME : "ＭＡＬＳＨＡ Ｘ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    ALIVE: 'https://telegra.ph/file/6271e811e63cfb46ea23b.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
